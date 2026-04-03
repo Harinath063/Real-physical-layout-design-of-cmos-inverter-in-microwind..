@@ -1,0 +1,31 @@
+VERSION 02-04-2026 23:51:11
+FIG #C:\Users\lenovo\Desktop\cmoslayout.MSK
+BB(-66,66,-42,95)
+SIMU #50.00
+ZOOM(-87,65,-51,99)
+REC(-66,79,24,16,NW)
+REC(-53,85,5,4,DP)
+REC(-60,85,5,4,DP)
+REC(-53,69,5,4,DN)
+REC(-60,69,5,4,DN)
+REC(-51,86,2,2,CO)
+REC(-59,86,2,2,CO)
+REC(-51,70,2,2,CO)
+REC(-59,70,2,2,CO)
+REC(-55,66,2,26,PO)
+REC(-60,85,4,4,ME)
+REC(-52,69,4,20,ME)
+REC(-60,69,4,4,ME)
+REC(-55,85,2,4,DP)
+REC(-55,69,2,4,DN)
+TITLE -59 88  #Vdd
+$1 1000 0 
+TITLE -59 70  #Vss
+$0 1000 0 
+TITLE -50 78  #out
+$v 1000 0 
+TITLE -54 91  #input
+$c 1000 0 0.9000 1.0000 1.9000 2.0000 
+TITLE -43 94  #Vdd
+$1 1000 0 
+FFIG C:\Users\lenovo\Desktop\cmoslayout.MSK
